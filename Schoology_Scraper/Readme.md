@@ -1,0 +1,2 @@
+Made this to scrape all of the year's notes off my BC Calc class's Schoology page like right before Finals/APs. Due to it being right before Finals/APs, I didn't spend much time to make it incredibly robust.
+This was a two part project, first script, 'Lesson_Scraper' scrapes a series of lesson links off a course homepage (with specified units). After the lesson pages are obtained, I used the second script, 'Lesson_Downloader' to download specific google drive pdfs into my local. 

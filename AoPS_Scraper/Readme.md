@@ -1,0 +1,1 @@
+Made this scraper to scrape all of the handouts off my AoPS PhysicsWOOT class page, because, yup lazy like that.
