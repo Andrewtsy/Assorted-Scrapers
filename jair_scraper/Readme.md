@@ -1,0 +1,1 @@
+This is a scraper to extract the current issue from the Journal of Artificial Intelligence Research. It accesses the main page and downloades each of the papers from the current issue into pdfs.
